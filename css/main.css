@@ -1,0 +1,38 @@
+
+.tp {
+	background-color: grey;
+	height: 50px;
+	position: relative;
+}
+label{
+	margin-top:20px;
+	display: inline-block;
+	clear: left;
+}
+input{
+	margin-top: 10px;
+	height: 20px;
+	width: 400px;
+	margin-left: 190px;
+	
+
+}
+
+img{
+	height: 20px;
+	width: 20px;
+	display: inline-block;
+}
+#one{
+	float: left;
+	display: inline-block;
+}
+
+#two{
+	float: right;
+	display: inline-block;
+}
+#three{
+	float: right;
+	display: inline-block;
+}
